@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1083853009965",
+    "project_id": "mindboost-88a41",
+    "storage_bucket": "mindboost-88a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083853009965:android:fa866a95896067f848f4a4",
+        "android_client_info": {
+          "package_name": "com.knsTechnology.mindBoost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083853009965-qkul0u453cu2kqn67soqocidlt7028f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtVwDK9TrwV5apANE_zJumNXDKDRCGmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083853009965-qkul0u453cu2kqn67soqocidlt7028f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083853009965:android:46522604c69ef43e48f4a4",
+        "android_client_info": {
+          "package_name": "com.wavedecible.brainwave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083853009965-qkul0u453cu2kqn67soqocidlt7028f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtVwDK9TrwV5apANE_zJumNXDKDRCGmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083853009965-qkul0u453cu2kqn67soqocidlt7028f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
